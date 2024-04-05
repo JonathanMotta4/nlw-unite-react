@@ -12,7 +12,7 @@ antes em eventos presenciais**.
 ## Utilização
 
 - Clone este repositório
-- Siga as instruções da API neste repositório: <https://github.com/JonathanMotta4/nlw-unite-node>
+- Siga as instruções da API neste repositório: [nlw-unite-node](https://github.com/JonathanMotta4/nlw-unite-node)
 - Instale as dependências ```npm install```
 - Execute o comando ```npm run dev``` ou ```npm run preview``` para iniciar a aplicação
 - Vá até ```http://localhost:5173```  ou ```http://localhost:4173``` se estiver utilizando o script preview
